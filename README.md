@@ -1,6 +1,7 @@
 ### Hi there, I'm André Menezes
 
 Graduated on Civil Engineering and currently working on Data Science, Machine Learning and Data Analysis projects.
+
 I enjoy learning about all kinds of new tech to implement on my work, as well as looking up for gaming content (especially retro/old school alike) during my spare time!
 
 <div align="center">
@@ -25,11 +26,11 @@ ____
   <br />
   <div>
     <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Render-green?logo=Render&logoColor=white&style=for-the-badge" />
     <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Ubuntu-orange?logo=Ubuntu&logoColor=white&style=for-the-badge" />
   </div>
 
 ### Contact me: 
