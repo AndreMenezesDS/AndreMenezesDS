@@ -1,6 +1,6 @@
 ### Hi there, I'm André Menezes
 
-Graduated on Civil Engineering and currently working on Data Science, Machine Learning and Data Analysis projects.
+In this page, you'll have access to my work regarding Data Science, Machine Learning and Data Analysis projects.
 
 I enjoy learning about all kinds of new tech to implement on my work, as well as looking up for gaming content (especially retro/old school alike) during my spare time!
 
