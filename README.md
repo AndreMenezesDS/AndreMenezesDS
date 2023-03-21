@@ -33,6 +33,12 @@ ____
     <img align="center" src="https://img.shields.io/badge/Ubuntu-orange?logo=Ubuntu&logoColor=white&style=for-the-badge" />
   </div>
 
+### Projects Portfolio
+____
+
+* [House Sales Data Analysis](https://github.com/AndreMenezesDS/house_rocket_sales_insights)
+* [Rossman Sales Prediction Model](https://github.com/AndreMenezesDS/rossmann_sales_predict)
+
 ### Contact me: 
 ____
 
@@ -41,6 +47,12 @@ ____
   <div id="badges" >
     <a href = "https://www.linkedin.com/in/andremenezes994/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href = "andalves994@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+    </a>
+    <a href = "https://t.me/andre_menezes_94">
+      <img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
   </div>
 </div>
