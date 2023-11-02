@@ -29,6 +29,7 @@ ____
 * [House Sales Data Analysis](https://github.com/AndreMenezesDS/house_rocket_sales_insights)
 * [Rossman Sales Prediction Model (Regressor Prediction Model)](https://github.com/AndreMenezesDS/rossmann_sales_predict)
 * [Health Insurance Cross-Sell (Learning to Rank Prediction Model)](https://github.com/AndreMenezesDS/PA004_health_insurance)
+* [Machine Learning Trial Observation](https://github.com/AndreMenezesDS/machine_learning_test)
 
 ### Tools I work with: 🛠️
 
